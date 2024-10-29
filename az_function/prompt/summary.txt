@@ -1,0 +1,7 @@
+Review the provided JSON and provide a summary of the site visit. 
+
+Be verbose and cover all of the topics mentioned in the JSON.
+
+JSON:
+
+{input}
